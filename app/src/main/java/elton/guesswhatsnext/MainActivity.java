@@ -13,7 +13,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.Collections;
 
-
+//hi adi
 public class MainActivity extends AppCompatActivity {
 
     public String pokerCardsDeck[]= {"1s","1d","1c","1h","2s","2d","2c","2h","3s","3d","3c","3h",
